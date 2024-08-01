@@ -1,0 +1,74 @@
+*,
+html {
+
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 78px;
+    border-radius:15px;
+    font-size:;
+    font-family:fantasy;
+    color:rgb(255, 255, 255)
+}
+
+.about {
+
+}
+
+.ins {
+    text-decoration: none;
+}
+
+.TT {
+    text-decoration: none;
+}
+
+.nav {
+    
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding: 30px;
+}
+
+.instagram {
+    width: 35px;
+    height: 25px;
+    position:relative;
+    top: 7px;
+}
+
+.tiktok {
+    width: 31px;
+    height: 25px;
+    position: relative;
+    top: 7px;
+}
+
+.content {
+
+
+}
+
+.foto {
+    width: 150px;
+    height: 155px;
+    position: relative;
+    top: 5px;
+    left: 46%;
+
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
